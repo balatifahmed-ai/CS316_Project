@@ -4,7 +4,7 @@ For our CS316 project, we used hourly Open-Meteo weather and solar reanalysis da
 
 ## Run the notebook
 
-Open `Data Summary (6).ipynb` in Google Colab and run the cells from top to bottom. The download cell uses `gdown` and `unzip` to fetch and extract the project archive. If you already have the archive, extract the eight city CSVs under `openmeteo_history/` and skip the download cell. The analysis uses pandas, NumPy, Matplotlib, and scikit-learn.
+Open `CS316_Project_Notebook.ipynb` in Google Colab and run the cells from top to bottom. The download cell uses `gdown` and `unzip` to fetch and extract the project archive. If you already have the archive, extract the eight city CSVs under `openmeteo_history/` and skip the download cell. The analysis uses pandas, NumPy, Matplotlib, and scikit-learn.
 
 ## How we tested the models
 
